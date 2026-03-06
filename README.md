@@ -1,2 +1,2 @@
 # my-blinky-board
-A simple LED Chaser project using a 555 Timer and a CD4017 IC
+This is a simple 555-timer based LED blinker PCB designed using KiCad. It is my first hardware project, and I have completed the DRC checks and generated the manufacturing files.
